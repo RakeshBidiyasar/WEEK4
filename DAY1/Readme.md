@@ -1,0 +1,1 @@
+Load a Customer Churn Dataset (Telco, E-commerce, Banking, etc.) Perform EDA: Check missing values, summary statistics, and distributions Visualize churn vs. non-churn customers (bar plots, heatmaps, etc.) Generate insights on why customers might be leaving"
